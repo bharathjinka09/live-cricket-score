@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/live-cricket-score/static/css/main.5f361e03.chunk.css",
+    "main.js": "/live-cricket-score/static/js/main.07f2bffa.chunk.js",
+    "main.js.map": "/live-cricket-score/static/js/main.07f2bffa.chunk.js.map",
+    "runtime-main.js": "/live-cricket-score/static/js/runtime-main.09726eea.js",
+    "runtime-main.js.map": "/live-cricket-score/static/js/runtime-main.09726eea.js.map",
+    "static/js/2.606eff13.chunk.js": "/live-cricket-score/static/js/2.606eff13.chunk.js",
+    "static/js/2.606eff13.chunk.js.map": "/live-cricket-score/static/js/2.606eff13.chunk.js.map",
+    "index.html": "/live-cricket-score/index.html",
+    "precache-manifest.3f40831ccf9efedd891f1e993873eefe.js": "/live-cricket-score/precache-manifest.3f40831ccf9efedd891f1e993873eefe.js",
+    "service-worker.js": "/live-cricket-score/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/live-cricket-score/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.606eff13.chunk.js.LICENSE.txt": "/live-cricket-score/static/js/2.606eff13.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/live-cricket-score/static/media/logo.5d5d9eef.svg",
+    "static/media/vs.png": "/live-cricket-score/static/media/vs.27b23a52.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09726eea.js",
+    "static/js/2.606eff13.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.07f2bffa.chunk.js"
+  ]
+}
